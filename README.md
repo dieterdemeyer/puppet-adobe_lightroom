@@ -1,5 +1,7 @@
 # Adobe Lightroom Puppet Module for Boxen
 
+Install [Adobe Lightroom](http://www.adobe.com/products/photoshop-lightroom.html), a comprehensive set of digital photography tools and offers new ways to create inspiring digital photography.
+
 ## Usage
 
 ```puppet
