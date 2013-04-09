@@ -1,3 +1,0 @@
-fixtures:
-  symlinks:
-    "adobe_lightroom": "#{source_dir}"
